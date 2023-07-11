@@ -12,5 +12,5 @@ https://www.figma.com/file/vySEJqElVGhWQkwVDUX5Lk/Untitled?type=design&node-id=0
 To get started:
 
 In Terminal:
-npm install
-npm run dev
+-npm install
+-npm run dev
